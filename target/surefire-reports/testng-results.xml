@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MangMaven.AppTest" duration-ms="0" started-at="2015-12-29T07:09:43Z" finished-at="2015-12-29T07:09:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="0" started-at="2015-12-29T07:09:43Z" finished-at="2015-12-29T07:09:43Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- MangMaven.AppTest -->
+</testng-results>
